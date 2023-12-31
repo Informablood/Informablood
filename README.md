@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sargis Hakobyan
 - 👀 I’m interested in Web Programming
 - 🌱 I’m currently learning Html, Css and JavaScript
-- 💞️ I’m looking to collaborate on specialists
+- 💞️ I want to cooperate with specialists
 - 📫 How to reach me hakobyan.ait@gmail.com
 
 <!---
